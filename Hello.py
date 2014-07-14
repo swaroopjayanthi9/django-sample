@@ -3,7 +3,9 @@
 
 This is for printing the samples, want to try out'''
 
-print 'Lord' #Localchange
+print 'Lord' #Localchange, Master changes
+#print 'Lord'  #Master changes
+
 
 print 'Hanuman'
 
